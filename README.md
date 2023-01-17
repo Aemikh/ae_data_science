@@ -3,7 +3,7 @@ From the [Skillfactory Data Science course](https://lms.skillfactory.ru/courses/
 
 ## проекты
 
-* [проект О. Игра: Угадай число](https://github.com/Aemikh/ae_data_science/blob/main/game_v2.py)
+* [проект О. Игра: Угадай число](https://github.com/Aemikh/ae_data_science/tree/main/project_0)
 * [проект 1. ______](____)
 * [проект 2. ______](____)
 
