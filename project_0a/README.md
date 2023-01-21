@@ -2,10 +2,10 @@
 
 ## Оглавление
 1. [Описание проекта](https://github.com/Aemikh/ae_data_science/tree/main/project_0a/README.md/#Описание-проекта)
-2. [Какой кейс решаем](https://github.com/Aemikh/ae_data_science/tree/main/project_0a/README.md/#Какой-кейс-решаем)
-3. [Этапы работы над проектом ](https://github.com/Aemikh/ae_data_science/tree/main/project_0a/README.md/#Этапы-работы-над-пректом)
-4. [Результат](https://github.com/Aemikh/ae_data_science/tree/main/project_0a/README.md/#Результат)
-5. [Выводы](https://github.com/Aemikh/ae_data_science/tree/main/project_0a/README.md/#Выводы)
+2. [Какой кейс решаем?](https://github.com/Aemikh/ae_data_science/tree/main/project_0a/README.md/#Какой-кейс-решаем?)
+3. [Этапы работы над проектом:](https://github.com/Aemikh/ae_data_science/tree/main/project_0a/README.md/#Этапы-работы-над-пректом:)
+4. [Результаты:](https://github.com/Aemikh/ae_data_science/tree/main/project_0a/README.md/#Результаты:)
+5. [Выводы:](https://github.com/Aemikh/ae_data_science/tree/main/project_0a/README.md/#Выводы:)
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное количество попыток.
