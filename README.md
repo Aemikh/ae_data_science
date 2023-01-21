@@ -4,6 +4,7 @@ From the [Skillfactory Data Science course](https://lms.skillfactory.ru/courses/
 ## проекты
 
 * [проект О. Игра: Угадай число](https://github.com/Aemikh/ae_data_science/tree/main/project_0)
+* [проект 0a. Игра: Угадай число не более чем за 20 попыток](https://github.com/Aemikh/ae_data_science/tree/main/project_0a)
 * [проект 1. ______](____)
 * [проект 2. ______](____)
 
