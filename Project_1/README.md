@@ -1,4 +1,4 @@
-# Project 1. Анализ базы данных резюме c Head Hunter
+# Проект. Анализ резюме из HeadHunter
 
  ## Оглавление  
  [1. Описание проекта](https://github.com/Aemikh/ae_data_science/tree/main/Project_1/README.md/#Описание-проекта)  
