@@ -9,7 +9,7 @@
  ### Описание проекта    
  Провести обработку данных из базы резюме, выгруженной с сайта поиска вакансий hh.ru.
 
- :arrow_up:[к оглавлению](https://github.com/Aemikh/ae_data_science/tree/main/Project_1/README.md/#Оглавление)
+ :arrow_up:[K оглавлению](https://github.com/Aemikh/ae_data_science/tree/main/Project_1/README.md/#Оглавление)
 
 
  ### Какой кейс решаем?    
@@ -41,4 +41,8 @@
  ### Результаты  
  [Ноутбук с выполненными заданиями и выводами](https://github.com/Aemikh/ae_data_science/blob/main/Project_1/Project_1_AE.ipynb)
 
- :arrow_up:[к оглавлению](https://github.com/Aemikh/ae_data_science/tree/main/Project_1/README.md/#Оглавление)
+ ### Ссылки
+ - [Файл с исходными данными](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing) 
+ - [Выгрузка курсов валют](https://lms.skillfactory.ru/assets/courseware/v1/15abf80f45a2f3e93c3274101b451c67/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/ExchangeRates.zip)
+
+ :arrow_up:[K оглавлению](https://github.com/Aemikh/ae_data_science/tree/main/Project_1/README.md/#Оглавление)
