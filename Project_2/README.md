@@ -44,7 +44,7 @@
 
  
  ### Результаты  
- [Ноутбук с выполненными заданиями и выводами](https://github.com/Aemikh/ae_data_science/blob/main/Project_1/Project_2_AE.ipynb)
+ [Ноутбук с выполненными заданиями и выводами](https://github.com/Aemikh/ae_data_science/blob/main/Project_2/Project_2_AE.ipynb)
 
  ### Ссылка
 
