@@ -23,8 +23,8 @@
   
 
  ### Результаты  
- [Ноутбук](https://github.com/Aemikh/ae_data_science/blob/main/Project_1/EDA_project_3_AE.ipynb)
- [Kaggle-ноутбук](https://www.kaggle.com/code/aemikh/project-3-eda-feature-engineering/notebook)
+ - [Ноутбук](https://github.com/Aemikh/ae_data_science/blob/main/Project_1/EDA_project_3_AE.ipynb)
+ - [Kaggle-ноутбук](https://www.kaggle.com/code/aemikh/project-3-eda-feature-engineering/notebook)
 
 
  ### Ссылки
